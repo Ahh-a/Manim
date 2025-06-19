@@ -18,5 +18,5 @@ class Arthur(Scene):
         texto.center()
 
         self.play(Write(texto, run_time=2))
-        self.wait(3)
+        self.wait(2)
         self.play(FadeOut(texto))
