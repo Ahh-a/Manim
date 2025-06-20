@@ -1,0 +1,7 @@
+# This file is used internally by FFMPEG.
+file 'file:/home/vitorette/Documentos/python/manim/my-project/media/videos/scene/1080p60/partial_movie_files/capa/3554953568_3203171767_223132457.mp4'
+file 'file:/home/vitorette/Documentos/python/manim/my-project/media/videos/scene/1080p60/partial_movie_files/capa/3642637906_1831374817_3316306202.mp4'
+file 'file:/home/vitorette/Documentos/python/manim/my-project/media/videos/scene/1080p60/partial_movie_files/capa/3642637906_157708718_2990246839.mp4'
+file 'file:/home/vitorette/Documentos/python/manim/my-project/media/videos/scene/1080p60/partial_movie_files/capa/3642637906_1831374817_60010488.mp4'
+file 'file:/home/vitorette/Documentos/python/manim/my-project/media/videos/scene/1080p60/partial_movie_files/capa/3642637906_351097419_3129627924.mp4'
+file 'file:/home/vitorette/Documentos/python/manim/my-project/media/videos/scene/1080p60/partial_movie_files/capa/3642637906_1121617232_3278671325.mp4'

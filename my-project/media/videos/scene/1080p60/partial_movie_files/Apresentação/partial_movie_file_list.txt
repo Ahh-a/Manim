@@ -1,0 +1,5 @@
+# This file is used internally by FFMPEG.
+file 'file:/home/vitorette/Documentos/python/manim/my-project/media/videos/scene/1080p60/partial_movie_files/Apresentação/3463260847_3969257462_223132457.mp4'
+file 'file:/home/vitorette/Documentos/python/manim/my-project/media/videos/scene/1080p60/partial_movie_files/Apresentação/2191255874_1839128356_2521161203.mp4'
+file 'file:/home/vitorette/Documentos/python/manim/my-project/media/videos/scene/1080p60/partial_movie_files/Apresentação/2191255874_3493434901_1581293253.mp4'
+file 'file:/home/vitorette/Documentos/python/manim/my-project/media/videos/scene/1080p60/partial_movie_files/Apresentação/2191255874_2408024828_283070699.mp4'
